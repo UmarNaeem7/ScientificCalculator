@@ -1,0 +1,12 @@
+D:\source\C#\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+D:\source\C#\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+D:\source\C#\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+D:\source\C#\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csprojAssemblyReference.cache
+D:\source\C#\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.calculator.resources
+D:\source\C#\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Properties.Resources.resources
+D:\source\C#\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.GenerateResource.cache
+D:\source\C#\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.CoreCompileInputs.cache
+D:\source\C#\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+D:\source\C#\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
+D:\source\C#\ScientificCalculator\ScientificCalculator\obj\Debug\Interop.MSScriptControl.dll
+D:\source\C#\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.ResolveComReference.cache
